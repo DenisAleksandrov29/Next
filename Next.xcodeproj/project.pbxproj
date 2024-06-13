@@ -14,6 +14,7 @@
 		87641D482C1B66DC00F61A6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87641D472C1B66DC00F61A6A /* Assets.xcassets */; };
 		87641D4B2C1B66DC00F61A6A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 87641D4A2C1B66DC00F61A6A /* Base */; };
 		87641D562C1B6C6300F61A6A /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87641D552C1B6C6300F61A6A /* NextViewController.swift */; };
+		87F87B912C1B9B430021DCF7 /* BingoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F87B902C1B9B430021DCF7 /* BingoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		87641D4A2C1B66DC00F61A6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87641D4C2C1B66DC00F61A6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87641D552C1B6C6300F61A6A /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
+		87F87B902C1B9B430021DCF7 /* BingoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BingoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				87641D422C1B66DA00F61A6A /* ViewController.swift */,
 				87641D402C1B66DA00F61A6A /* SceneDelegate.swift */,
 				87641D552C1B6C6300F61A6A /* NextViewController.swift */,
+				87F87B902C1B9B430021DCF7 /* BingoViewController.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87F87B912C1B9B430021DCF7 /* BingoViewController.swift in Sources */,
 				87641D432C1B66DA00F61A6A /* ViewController.swift in Sources */,
 				87641D562C1B6C6300F61A6A /* NextViewController.swift in Sources */,
 				87641D3F2C1B66DA00F61A6A /* AppDelegate.swift in Sources */,
